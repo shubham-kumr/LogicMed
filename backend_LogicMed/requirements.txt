@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+python-dotenv
+pymongo
+azure-ai-inference
+azure-core
+pytesseract
+Pillow
+pymupdf
+gunicorn
